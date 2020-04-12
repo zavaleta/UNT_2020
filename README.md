@@ -10,17 +10,17 @@ Universidad Nacional de Trujillo.
 ---
 Clase 01:
  - [Introducción](pdf/Data_Science_UNT_01.pdf)
- - [Python para Data Science](clase_unt_01.ipynb)
+ - [Python para Data Science](Clase_unt_01.ipynb)
  
 Classe 02:
- - [Python para Data Science](clase_unt_02.ipynb)
+ - [Python para Data Science](Clase_unt_02.ipynb)
  
 Classe 03:
- - [Machine Learning (ML)](clase_unt_03.ipynb)
+ - [Machine Learning (ML)](Clase_unt_03.ipynb)
  
 Classe 04:
- - [Deep Learning (DL)](clase_unt_04.ipynb)
+ - [Deep Learning (DL)](Clase_unt_04.ipynb)
  
 Classe 05:
- - [Aplicaciones de ML y DL](clase_unt_05.ipynb)
+ - [Aplicaciones de ML y DL](Clase_unt_05.ipynb)
 ---
